@@ -1,5 +1,5 @@
 ### Hi there 👋
-*   ✉️  You can contact me at [my mail](mailto:theodondre@gmail.com)
+*   ✉️  You can contact me at [my email](mailto:theodondre@gmail.com)
 *   🧠  I'm currently focusing on Federated Learning/LLMs/AI/ML/DL.
 *   🤝  I'm open to work - [message me](https://wa.me/+13306898199)
 ```python
