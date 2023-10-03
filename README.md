@@ -19,7 +19,7 @@ class DataProf:
     )
 
     def say_hi(self):
-        return "Hi! Thanks for dropping by. :-)"
+        return "Hi! Thanks for dropping by.  👋"
 
 
 me = DataProf()
