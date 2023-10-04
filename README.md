@@ -10,12 +10,13 @@ from typing import List
 @dataclass
 class DataProf:
     name: str = "Theophilus Siameh"
-    current_role: str = "ML Consultant"
+    current_role: str = "AI/ML Consultant"
     passions: List[str] = field(
         default_factory=lambda: [
             "artificial-intelligence",
             "data-science",
-            "edge-computing",
+            "machine learning",
+            "federated learning",
             "LLMs"
         ]
     )
